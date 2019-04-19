@@ -1,0 +1,7 @@
+Entity\Person_.class
+Entity\Employee.class
+Entity\Student.class
+Entity\Student_.class
+Entity\Person.class
+Entity\Employee_.class
+Servlets\servlet.class
